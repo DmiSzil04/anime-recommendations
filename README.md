@@ -1,6 +1,6 @@
 # anime-recommendations
 Stages:
-1. Preprocessing:
+<br>1. Preprocessing:
    1.1. Get info about dataset
    1.1. Drop duplicates
    1.2. Drop empty values by some columns
